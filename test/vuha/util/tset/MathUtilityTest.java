@@ -33,6 +33,7 @@ public class MathUtilityTest {
         assertEquals(1, MathUtility.getFactorial(0));
         assertEquals(1, MathUtility.getFactorial(1));
         assertEquals(6, MathUtility.getFactorial(3));
+        System.out.println("njb");
         //tui muon thay xanh tren github
     }
 
