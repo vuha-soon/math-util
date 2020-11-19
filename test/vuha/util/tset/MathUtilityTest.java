@@ -31,7 +31,9 @@ public class MathUtilityTest {
         assertEquals(24, MathUtility.getFactorial(4));
         assertEquals(6, MathUtility.getFactorial(3));
         assertEquals(1, MathUtility.getFactorial(0));
-        assertEquals(10, MathUtility.getFactorial(1));
+        assertEquals(1, MathUtility.getFactorial(1));
+        assertEquals(6, MathUtility.getFactorial(3));
+        //tui muon thay xanh tren github
     }
 
 }
@@ -41,4 +43,4 @@ public class MathUtilityTest {
 //bạn vẫn luôn đống gói build ra đc file .jar .war
 //xanh là hàm chuẩn thì ms nên ra đc .jar .war
 //vây ta cân có cách gài cái xanh đỏ vào quy trình build
-// nêế code dang màu đỏ thì phải disable cái nút clear&build
+// nêế code dang màu đỏ thì phải disable cái nút clear&buildF

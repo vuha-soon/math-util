@@ -40,6 +40,7 @@ public class MathUtility {
         //e:1,a:1--oke
         //e:ném về ngoại lệ IllegalArgumentException nếu tình huống giai thừ -5
         System.out.println("5!: "+ getFactorial(-5));
+        System.out.println("CI for today");
     }
 }
 // code viet ra dev test truoc, cos vai hinh thuc test code khac nha
